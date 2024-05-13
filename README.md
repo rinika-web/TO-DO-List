@@ -16,3 +16,7 @@ A simple Todo list application built using React.js.
 ## Installation
 
 1. Clone this repository:
+   git clone:
+   https://github.com/rinika-web/TO-DO-List
+2. Navigate to the project directory:
+   cd to-do li
