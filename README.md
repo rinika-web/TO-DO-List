@@ -42,3 +42,4 @@ npm start
 ## Contributing
 
 Contributions are welcome! If you'd like to add new features, fix bugs, or improve documentation, please open an issue or submit a pull request.
+
